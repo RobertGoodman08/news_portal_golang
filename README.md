@@ -1,2 +1,2 @@
-# News Portal Golang
+# News Portal Golang CRUD
 
